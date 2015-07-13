@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Using LDAP Login Module
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/using-ldap-login-module-to-authenticate-users-with-ldap-server-in-hybrid-applications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
